@@ -1,10 +1,8 @@
-<h1>OptimizedHTML - Start HTML Template</h1>
+<h1>Start HTML Template</h1>
 
 <p>
-	<img src="https://raw.githubusercontent.com/agragregra/optimizedhtml-start-template/master/app/img/preview.jpg" alt="Start HTML Template">
+	<img src="https://raw.githubusercontent.com/dariyaleleka/starter-template/master/app/img/preview.jpg" alt="Start HTML Template">
 </p>
-
-<p>Author: <a href="http://webdesign-master.ru" target="_blank">WebDesign Master</a> | <a href="http://webdesign-master.ru/blog/tools/2016-08-19-optimizedhtml.html" target="_blank">Manual in Russian</a></p>
 
 <p>OptimizedHTML is all-inclusive, optimized for Google PageSpeed start HTML5 template with Bootstrap (grid only), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, compress-images, Vinyl-FTP and Bower (libs path) support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
 
@@ -17,7 +15,7 @@
 <h2>How to use OptimizedHTML</h2>
 
 <ol>
-	<li><a href="https://github.com/agragregra/optimizedhtml-start-template/archive/master.zip">Download</a> <strong>optimizedhtml-start-template</strong> from GitHub;</li>
+	<li><a href="https://github.com/dariyaleleka/starter-template">Download</a> <strong>optimizedhtml-start-template</strong> from GitHub;</li>
 	<li>Install Node Modules: <strong>npm i</strong>;</li>
 	<li>Run the template: <strong>gulp</strong>.</li>
 </ol>
