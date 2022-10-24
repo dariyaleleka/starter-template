@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a5fdabd-c7ce-4c2d-8dd1-f14eaed6827e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/img/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/preview1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666631136688</updated>
       <workItem from="1666631138391" duration="10000" />
-      <workItem from="1666631396417" duration="535000" />
+      <workItem from="1666631396417" duration="604000" />
     </task>
     <servers />
   </component>
