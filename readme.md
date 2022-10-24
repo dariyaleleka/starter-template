@@ -1,7 +1,7 @@
 <h1>Start HTML Template</h1>
 
 <p>
-	<img src="https://raw.githubusercontent.com/dariyaleleka/starter-template/master/app/img/preview.jpg" alt="Start HTML Template">
+	<img src="https://raw.githubusercontent.com/dariyaleleka/starter-template/master/app/img/preview1.jpg" alt="Start HTML Template">
 </p>
 
 <p>OptimizedHTML is all-inclusive, optimized for Google PageSpeed start HTML5 template with Bootstrap (grid only), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, compress-images, Vinyl-FTP and Bower (libs path) support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
